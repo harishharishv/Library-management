@@ -1,0 +1,3 @@
+C:\Windows\System32>regsvr32 "C:\Program Files (x86)\Common Files\DESIGNER\MSDE.DLL"
+
+C:\Windows\System32>regsvr32 "C:\Program Files (x86)\Common Files\DESIGNER\MSDERUN.DLL"
